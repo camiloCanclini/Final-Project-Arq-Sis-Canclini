@@ -18,7 +18,7 @@ done
 if [ $i -ge 6 -a $i -le 10 ]; then
     echo "Podria haber estado mejor... :P ";
 elif [ $i -gt 10 ]; then
-    echo "La verda"
+    echo "La verdad...huelo a holandes por aca..."
 else
     echo "Muy bien! Usted ha adivinado el numero (Raro)";
 fi
