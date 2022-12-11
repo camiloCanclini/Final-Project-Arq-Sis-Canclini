@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "Hola! Buenos Dias $USER"
 while [ $option != 0 ];
 echo -e "\n+----------MENU-----------+"
